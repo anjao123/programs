@@ -1,0 +1,67 @@
+num1 = 10
+num2 = 20
+
+addition = num1 + num2
+c = num1 - num2
+multiplication = num1 * num2
+division = num1 / num2
+Exponent = num1 ** num2
+Modules = num1 % num2
+
+
+#Comparison Operator
+Modules = num1 > num2
+less_than = num1 < num2
+equal_to = num1 - num2
+
+#Assignment Operator
+
+num1 += 5
+num2 -= 4
+
+#Identify Operator
+i_equal = num1 is num2
+is_not = num1 is not num2
+
+#Strings
+gretings = "Hello"
+name = "Darlene"
+
+full_gretings = gretings + " " + name
+
+#Comparison Operator
+is_equal = gretings == "Hello"
+is_not_equal = name = "Darlene"
+
+#List
+my_list = [1,2,3]
+
+first_element = my_list[0]
+last_element = my_list[-1]
+
+#Assignment Operator
+my_list.append(6)
+my_list[2] = 0
+
+#Comparison Operator
+is_equal = my_list == [3,4,5]
+is_not_equal = my_list != [5,4,3]
+
+#Membership Operator
+contains = 3 in my_list
+does_not_contain = 6  not in my_list
+
+#TUPPLES
+my_tuple = (1,2,3)
+#Comparison Operator
+is_not = my_tuple == (1,2,3)
+is_not_equal = my_list != (3,2,1)
+
+#DICTIONARIES
+my_dict = {'name': 'Darlene' , 'age': 17, 'City': 'Cebu City'}
+
+#Comparison Operator
+is_equal = my_dict == {'name': 'Darlene', 'age': 17, 'city': 'Cebu City'}
+is_not_equal = my_dict != {'name': 'Darlene buotan', 'age': 19, 'city': 'Cebu City'}
+
+
