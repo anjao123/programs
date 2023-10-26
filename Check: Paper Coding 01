@@ -1,0 +1,3 @@
+color = ['yellow','black','blue']
+for index in range (len(color)):
+  print (color[index])
