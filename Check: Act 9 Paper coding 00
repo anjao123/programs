@@ -1,0 +1,14 @@
+Grade = int(input("Enter Grade:"))
+if (Grade >= 60):
+  print ("Congrats you have passed:")
+else:
+  print ("You have failed! Please approach your prof.")
+print (----------------------------------)
+Grade = int(input("Enter Grade:")
+if Grade <= 60:
+  print ("INCOMPLETE")
+elif Grade >= 60:
+  print ("COMPLETE!!")
+else:
+  print ("INCOMPLETE! you have failed")
+
