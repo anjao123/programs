@@ -1,0 +1,10 @@
+#list of grades in every subject of a student
+grades=(80,83,86,90,84)
+
+Sum = sum(grades)
+
+len(grades)
+
+Average=(Sum)/len(grades)
+print(Average)
+
